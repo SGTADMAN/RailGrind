@@ -1,6 +1,5 @@
-# Rail Grind Tutorial
-
-===
+Rail Grind Tutorial
+===================
 
 This repo is just the code from a video I made about grinding rails made from Unity's spline tool in Unity.
 
