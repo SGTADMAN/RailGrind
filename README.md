@@ -17,7 +17,7 @@ The project scene consists of a basic character controller that you can move wit
 ## Shameless Shilling
 
 ### Adam Lutton
-	* [Blog](https://adamluttonblog.co.uk/)
-	* [Itch.io](https://sgtadman.itch.io/)
-	* [YouTube](https://www.youtube.com/@adamlutton_gamedev)
-	* [Twitch](https://www.twitch.tv/sgtadman)
+* [Blog](https://adamluttonblog.co.uk/)
+* [Itch.io](https://sgtadman.itch.io/)
+* [YouTube](https://www.youtube.com/@adamlutton_gamedev)
+* [Twitch](https://www.twitch.tv/sgtadman)
